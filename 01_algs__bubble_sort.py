@@ -1,5 +1,6 @@
 ##
 ## Algorithms Lesson 1: Bubblesort
+## http://xoax.net/comp_sci/crs/algorithms/lessons/Lesson1/
 ## https://www.youtube.com/watch?v=P00xJgWzz2c
 ##
 
